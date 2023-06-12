@@ -1,0 +1,69 @@
+:root {
+--neon-green: #39FF00;
+--black: #000000;
+}
+
+body {
+background-color: var(--black);
+}
+
+.header {
+background-color: var(--neon-green); /* Neon green /
+color: #000; / Black text */
+text-align: center;
+padding: 20px;
+}
+
+.header h1 {
+margin: 0;
+font-size: 3em;
+color: var(--black);
+}
+.header p {
+margin: 0;
+font-size: 1em;
+color: var(--black);
+}
+.header h2 {
+margin: 0;
+font-size: 2em;
+color: var(--black);
+}
+
+.header a {
+    color: var(--black);
+}
+
+h1 {
+color: var(--neon-green);
+}
+
+p {
+color: var(--neon-green);
+}
+
+h2 {
+color: var(--neon-green);
+}
+
+li {
+color: var(--neon-green);
+}
+
+a {
+color: var(--neon-green);
+}
+
+
+.content {
+width: 600px;
+margin: 0 auto;
+}
+
+h1, h2 {
+text-align: center;
+}
+
+p {
+text-align: justify;
+}

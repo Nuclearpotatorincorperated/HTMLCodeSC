@@ -1,0 +1,37 @@
+body {
+background-color: 000000;
+}
+
+h1 {
+color: 39FF14;
+}
+
+p {
+color: 39FF14;
+}
+
+h2 {
+color: 39FF14;
+}
+
+li {
+color: 39FF14;
+}
+
+a {
+color: 39FF14;
+}
+
+
+.content {
+width: 600px;
+margin: 0 auto;
+}
+
+h1, h2 {
+text-align: center;
+}
+
+p {
+text-align: justify;
+}
